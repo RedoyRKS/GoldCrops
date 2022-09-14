@@ -84,7 +84,7 @@
                 <?php else: ?>
                     <div class="row uniform">
                         <div class="6u 12u$(xsmall)">
-                            <a href class="button special">Digital Market</a>
+                            <a href=../market.php class="button special">Digital Market</a>
                         </div>
                         <div class="6u 12u$(xsmall)">
                             <a href="logout.php" class="button special">LOG OUT</a>

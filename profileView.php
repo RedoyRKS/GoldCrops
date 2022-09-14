@@ -81,13 +81,13 @@
                             <center>
                                 <div class="row uniform">
                                     <div class="3u 12u$(large)">
-                                        <a href class="btn btn-danger" style="text-decoration: none;">Change Password</a>
+                                        <a href="changePass.php" class="btn btn-danger" style="text-decoration: none;">Change Password</a>
                                     </div>
                                     <div class="3u 12u$(large)">
-                                        <a href class="btn btn-danger" style="text-decoration: none;">Edit Profile</a>
+                                        <a href="profileEdit.php" class="btn btn-danger" style="text-decoration: none;">Edit Profile</a>
                                     </div>
                                     <div class="3u 12u$(xsmall)">
-            							<a href class="btn btn-danger" style="text-decoration: none;">Upload Product</a>
+            							<a href="uploadProduct.php" class="btn btn-danger" style="text-decoration: none;">Upload Product</a>
             						</div>
                                     <div class="3u 12u$(large)">
                                         <a href="Login/logout.php" class="btn btn-danger" style="text-decoration: none;">LOG OUT</a>

@@ -216,14 +216,25 @@
 								  <p>
 									  <b>Category : </b>
 								  </p>
-								  <div class="3u 12u$(small)">
+								  <!-- <div class="3u 12u$(small)">
 									  <input type="radio" id="farmer" name="category" value="1" checked>
 									  <label for="farmer">Farmer</label>
 								  </div>
 								  <div class="3u 12u$(small)">
 									  <input type="radio" id="buyer" name="category" value="0">
 									  <label for="buyer">Buyer</label>
-								  </div>
+								  </div> -->
+
+								  <div class="form-check form-check-inline">
+  <input class="form-check-input" type="radio" name="category" id="inlineRadio1" value="farmer">
+  <label class="form-check-label" for="inlineRadio1" name="farmer">Farmer</label>
+</div>
+<div class="form-check form-check-inline">
+  <input class="form-check-input" type="radio" name="category" id="inlineRadio2" value="buyer">
+  <label class="form-check-label" for="inlineRadio2" name="buyer">Buyer</label>
+</div>
+
+
 							  </div>
 							  <div class="row uniform">
 								  <div class="3u 12u$(small)">
