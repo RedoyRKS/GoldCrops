@@ -62,8 +62,4 @@ Run the server file first to establish connection with the Admin/ Server.  Then 
     15.Help 
 Enjoy the project and any contributions will be appreciated.
 
-### Contributors
 
-<a href="https://github.com/RedoyRKS">
-<!--   <img src="https://contrib.rocks/image?repo=9yon6yon-6yon/FIFA" width = "15%" /> -->
-</a>
