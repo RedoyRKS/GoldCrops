@@ -39,8 +39,8 @@ This project save in XAMPP -> htdocs folder, trun on XAMPP apache and MySql star
     7. Post news on Blog
     8. See Blog Comment and Like how many person and see person name.
     9. See Comment Time
-   10. See Buyer Transaction Details in database. 
-   10. Log Out.
+    10. See Buyer Transaction Details in database. 
+    11. Log Out.
    
   
 
@@ -56,9 +56,9 @@ This project save in XAMPP -> htdocs folder, trun on XAMPP apache and MySql star
     8. Like on Blog
     8. Buy Product
     9. Search Product
-   10. Add MyCart
-   11. Product Reviews in comment and Rating
-   12. Transaction Details in you confirm order
+    10. Add MyCart
+    11. Product Reviews in comment and Rating
+    12. Transaction Details in you confirm order
   
 Enjoy the project and any contributions will be appreciated.
 
