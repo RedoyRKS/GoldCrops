@@ -42,7 +42,6 @@ This project save in XAMPP -> htdocs folder, trun on XAMPP apache and MySql star
     10. See Buyer Transaction Details in database. 
     11. Log Out.
    
-  
 
 <center><h3>Buyer</h3></center>
 
