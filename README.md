@@ -23,7 +23,7 @@ Output :
 If XAMPP is not installed please install first.
 
 ### Usage
-This project save in XAMPP -> htdocs folder, trun on XAMPP apache and MySql start , you can simply check with this command in your browser :
+This project save in XAMPP -> htdocs folder and trun on XAMPP apache and MySql start and you can simply check with this command in your browser :
 
 
 ### Features
