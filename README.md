@@ -6,7 +6,7 @@
 <img src="https://en.wikipedia.org/wiki/Agriculture#/media/File:Maler_der_Grabkammer_des_Sennudem_001.jpg"  width = "100%"/>
 <br>
 
-## Agriculture Management System ~ `ACMS`<br>
+## AgriCulture Management System ~ `ACMS`<br>
 
 
 `ACMS` is an  Database Management Systems Project based on real life key features. Where buyer and farmer XAMPP will be connected to each other through database. Agriculture is the practice of cultivating plants and livestock. With this project people can sell and buy Gold Crops from anywhere.
