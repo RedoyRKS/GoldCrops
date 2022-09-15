@@ -9,7 +9,7 @@
 ## Agriculture Management System ~ `ACMS`<br>
 
 
-`FWCMS` is an Advanced Object Oriented Programming Project based on real life key features. Where user's and admin will be connected with each other through server socket. Football is an international sport. With this project people can enjoy FIFA 22 from everywhere.
+`ACMS` is an Advanced Object Oriented Programming Project based on real life key features. Where buyer and farmer XAMPP will be connected to each other through database. Agriculture is the practice of cultivating plants and livestock. With this project people can sell and buy Gold Crops from anywhere.
 
 ### Documentation
 
