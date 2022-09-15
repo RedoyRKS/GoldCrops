@@ -1,4 +1,4 @@
-# <center> Agriculture Management System </center>
+# <center> Agriculture Management System (GoldCrops) </center>
 
 <hr>
 
