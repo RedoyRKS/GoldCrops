@@ -64,13 +64,14 @@
                     {
                         echo
                         "<div>
-                            Account is not verified! Please confirm your email by clicking
-                            on the email link!
+                             
+
                         </div>";
                     }
                 ?>
                   <h2><?php echo $name; ?></h2>
-                  <p><?= $email ?></p>
+                  
+
 
                  <?php if($_SESSION['Category'] == 1): ?>
                     <div class="row uniform">

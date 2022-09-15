@@ -112,7 +112,7 @@
 				GoldCrops is e-commerce trading platform for grains & grocerries...
 			</p>
 			<div class="footer-icons">
-				<a  href="#"><i style="margin-left: 0;margin-top:5px;"class="fa fa-facebook"></i></a>
+				<a  href="https://github.com/RedoyRKS/GoldCrops#readme"><i style="margin-left: 0;margin-top:5px;"class="fa fa-github"></i></a>
 				<a href="#"><i style="margin-left: 0;margin-top:5px" class="fa fa-instagram"></i></a>
 				<a href="https://www.youtube.com/watch?v=roWymUF4hkM&ab_channel=FoodandAgricultureOrganizationoftheUnitedNations"><i style="margin-left: 0;margin-top:5px" class="fa fa-youtube"></i></a>
 			</div>
@@ -216,23 +216,23 @@
 								  <p>
 									  <b>Category : </b>
 								  </p>
-								  <!-- <div class="3u 12u$(small)">
+								  <div class="3u 12u$(small)">
 									  <input type="radio" id="farmer" name="category" value="1" checked>
 									  <label for="farmer">Farmer</label>
 								  </div>
 								  <div class="3u 12u$(small)">
 									  <input type="radio" id="buyer" name="category" value="0">
 									  <label for="buyer">Buyer</label>
-								  </div> -->
+								  </div>
 
-								  <div class="form-check form-check-inline">
+								  <!-- <div class="form-check form-check-inline">
   <input class="form-check-input" type="radio" name="category" id="inlineRadio1" value="farmer">
   <label class="form-check-label" for="inlineRadio1" name="farmer">Farmer</label>
 </div>
 <div class="form-check form-check-inline">
   <input class="form-check-input" type="radio" name="category" id="inlineRadio2" value="buyer">
   <label class="form-check-label" for="inlineRadio2" name="buyer">Buyer</label>
-</div>
+</div> -->
 
 
 							  </div>

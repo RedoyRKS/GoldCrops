@@ -58,7 +58,7 @@ if($category == 1)
             $_SESSION['logged_in'] = true;
 
             $_SESSION['picStatus'] = 0;
-            $_SESSION['picExt'] = png;
+            $_SESSION['picExt'] = "png";
 
             $sql = "SELECT * FROM farmer WHERE fusername='$user'";
             $result = mysqli_query($conn, $sql);
