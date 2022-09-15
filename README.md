@@ -9,57 +9,57 @@
 ## Agriculture Management System ~ `ACMS`<br>
 
 
-`ACMS` is an Advanced Object Oriented Programming Project based on real life key features. Where buyer and farmer XAMPP will be connected to each other through database. Agriculture is the practice of cultivating plants and livestock. With this project people can sell and buy Gold Crops from anywhere.
+`ACMS` is an  Database Management Systems Project based on real life key features. Where buyer and farmer XAMPP will be connected to each other through database. Agriculture is the practice of cultivating plants and livestock. With this project people can sell and buy Gold Crops from anywhere.
 
 ### Documentation
 
-To use this project you need to have ``java`` installed on your computer (save version  preferred). You can simply check with this command in terminal :
+To use this project you need to have ``XAMPP`` installed on your computer (save version  preferred). You can simply check with this command in your browser :
 
-    java --version
+   localhost/GoldCrops/
 
 Output :
 
-    openjdk 14.0.2 2020-07-14
-    OpenJDK Runtime Environment (build 14.0.2+12-Ubuntu-120.04)
-    OpenJDK 64-Bit Server VM (build 14.0.2+12-Ubuntu-120.04, mixed mode, sharing)
-If java is not installed please install first.
+    This site can’t be reached
+If XAMPP is not installed please install first.
 
 ### Usage
-Clone this project or download releases. Go inside of the project and open `FIFA` directory with any IDE. e.g. IntelliJ IDEA.
+This project save in XAMPP -> htdocs folder, trun on XAMPP apache and MySql start , you can simply check with this command in your browser :
 
-Run the server file first to establish connection with the Admin/ Server.  Then you can run `Main.java` to  start the application.
 
 ### Features
 
-<center><h3>Admin</h3></center>
+<center><h3>Farmer</h3></center>
 
-    1. Login as admin
-    2. Post news on Feed
-    3. Post next match details
-    4. Edit scores
-    5. Stream live match
-    6. Add Tickets
-    7. Modify Tickets
-    8. Edit Match Tree
+    1. SignUp as Farmer
+    2. Login as Farmer
+    3. Change Password
+    4. View Profile
+    5. Edit Profile
+    6. Add Product
+    7. Post news on Blog
+    8. See Blog Comment and Like how many person and see person name.
+    9. See Comment Time
+   10. See Buyer Transaction Details in database. 
+   10. Log Out.
+   
+  
 
-
-<center><h3>User</h3></center>
+<center><h3>Buyer</h3></center>
 
     1. Login / Sign Up
     2. Log Out
     3. View Profile
     4. Edit Profile
     5. Change Password
-    6. View Post on Feed
-    7. Comment on Post
-    8. See Live Match
-    9. See Group Details
-    10.See Match Tree
-    11.See Player Profiles
-    12.Buy Ticket (saves as .pdf document in local directory) 
-    13.Calculate BMI
-    14.Shop jersey of favourite team
-    15.Help 
+    6. View Post on Blog
+    7. Comment on Blog
+    8. Like on Blog
+    8. Buy Product
+    9. Search Product
+   10. Add MyCart
+   11. Product Reviews in comment and Rating
+   12. Transaction Details in you confirm order
+  
 Enjoy the project and any contributions will be appreciated.
 
 
