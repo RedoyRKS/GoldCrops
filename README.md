@@ -47,18 +47,18 @@ This project save in XAMPP -> htdocs folder, trun on XAMPP apache and MySql star
 <center><h3>Buyer</h3></center>
 
     1. Login / Sign Up
-    2. Log Out
-    3. View Profile
-    4. Edit Profile
-    5. Change Password
-    6. View Post on Blog
-    7. Comment on Blog
-    8. Like on Blog
+    2. View Profile
+    3. Edit Profile
+    4. Change Password
+    5. View Post on Blog
+    6. Comment on Blog
+    7. Like on Blog
     8. Buy Product
     9. Search Product
     10. Add MyCart
     11. Product Reviews in comment and Rating
     12. Transaction Details in you confirm order
+    13.Log Out.
   
 Enjoy the project and any contributions will be appreciated.
 
