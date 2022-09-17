@@ -4,7 +4,7 @@
 
 
 
-
+![CSEESE](C:\xampp\htdocs\GoldCrops\ImagesAg\GoldCrops.png)
 
 
 ## AgriCulture Management System ~ `ACMS`<br>
