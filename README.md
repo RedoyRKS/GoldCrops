@@ -3,7 +3,9 @@
 <hr>
 
 
-![CSEESE](C:\xampp\htdocs\GoldCrops\ImagesAg\GoldCrops.png)
+
+
+
 
 ## AgriCulture Management System ~ `ACMS`<br>
 
@@ -24,6 +26,7 @@ If XAMPP is not installed please install first.
 ### Usage
 This project save in XAMPP -> htdocs folder and trun on XAMPP apache and MySql start and you can simply check with this command in your browser :
 
+   localhost/GoldCrops/      
 
 ### Features
 
@@ -54,8 +57,8 @@ This project save in XAMPP -> htdocs folder and trun on XAMPP apache and MySql s
     8. Buy Product
     9. Search Product
     10. Add MyCart
-    11. Product Reviews in comment and Rating
-    12. Transaction Details in you confirm order
+    11. Product Reviews in comment and Rating.
+    12. Transaction Details in information you confirm order.
     13.Log Out.
   
 Enjoy the project and any contributions will be appreciated.
