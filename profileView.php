@@ -81,7 +81,7 @@
                             <center>
                                 <div class="row uniform">
                                     <div class="3u 12u$(large)">
-                                        <a href="changePass.php" class="btn btn-danger" style="text-decoration: none;">Change Password</a>
+                                        <a href="" class="btn btn-danger" style="text-decoration: none;">Change Password</a>
                                     </div>
                                     <div class="3u 12u$(large)">
                                         <a href="profileEdit.php" class="btn btn-danger" style="text-decoration: none;">Edit Profile</a>
